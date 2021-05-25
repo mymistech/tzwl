@@ -1,13 +1,13 @@
 [DOCUMENTATION]
 ORG_NAME="cart of bills Inc."
-ORG_URL="http://tzwl.store"
+ORG_URL="https://tzwl.store"
 ORG_DESCRIPTION="trillion Zimbabwe dollars concept token"
 
 [[CURRENCIES]]
 code="tZWL"
 issuer="GCSMNSIAJ7DM2BAMH4VHA5F3CQBHQCZWZX53J22OQZAHCLZDTO6IJIXF"
 display_decimals=4 
-image="http://tzwl.store/small.png"
+image="https://tzwl.store/tZWL.png"
 name="tZimbabweDollars"
 desc="trillion Zimbabwe dollars concept token"
 fixed_number = 1000000000
